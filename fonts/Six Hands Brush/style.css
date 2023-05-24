@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Six Hands';
+    src: local('Six Hands Brush'), local('Six-Hands-Brush'),
+        url('SixHandsBrush.woff2') format('woff2'),
+        url('SixHandsBrush.woff') format('woff'),
+        url('SixHandsBrush.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
