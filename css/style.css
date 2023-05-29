@@ -41,6 +41,10 @@ h1 {
     font-family: 'Six Hands';
 }
 
+.specialization > h5{
+    font-size: 1.15em;
+}
+
 .svg-container {
     display: flex;
     align-items: center;
